@@ -1,0 +1,2 @@
+# WorkSpace---LazyVim
+Development location
